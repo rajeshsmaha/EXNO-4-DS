@@ -1,4 +1,4 @@
-[# EXNO:4-DS
+# EXNO:4-DS
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -77,4 +77,3 @@ The feature selection techniques used are:
 Thus the the given data is performed Feature Scaling and Feature Selection process and saved the
 data to a file successfully.
 
-](https://github.com/rajeshsmaha/EXNO-5-DS/blob/main/README.md)
